@@ -6,10 +6,10 @@
 ## Table of Content
 
 - [Awesome-Navigation](#Awesome-Navigation)
-  - [CVPR2025](##CVPR2025)
-  - [ICLR2025](##ICLR2025)
-  - [NIPS2024](##NIPS2024)
-  - [Arxiv](##Arxiv)
+  - [CVPR2025](#CVPR2025)
+  - [ICLR2025](#ICLR2025)
+  - [NIPS2024](#NIPS2024)
+  - [Arxiv](#Arxiv)
 
 
 ## CVPR2025
