@@ -36,8 +36,8 @@
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
 | 2025-01-23 | SDA | Sapienza | [Following the Human Thread in Social Navigation](https://openreview.net/forum?id=M8OGl34Pmg) | [Code](https://github.com/L-Scofano/SDA) | Spotlight |
 | 2025-01-23 |  | SJTU | [The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs](https://openreview.net/forum?id=vJ0axKTh7t) | [Code](https://mvig-rhos.com/llm_inception) | Poster |
-| 2025-01-23 | System 1.x | UNC | [System 1.x: Learning to Balance Fast and Slow Planning with Language Models](https://openreview.net/forum?id=zd0iX5xBhA) | ｜ Poster |
-| 2025-01-06 | | UCB | [Horizon Generalization in Reinforcement Learning](https://openreview.net/forum?id=BH8Nrt2dPf) | ｜ Poster |
+| 2025-01-23 | System 1.x | UNC | [System 1.x: Learning to Balance Fast and Slow Planning with Language Models](https://openreview.net/forum?id=zd0iX5xBhA) | | Poster |
+| 2025-01-06 | | UCB | [Horizon Generalization in Reinforcement Learning](https://openreview.net/forum?id=BH8Nrt2dPf) |  | Poster |
 | 2025-02-17 | ARMAP | MIT | [Scaling Autonomous Agents via Automatic Reward Modeling And Planning](https://openreview.net/forum?id=vJ0axKTh7t) | [Code](https://armap-agent.github.io/) | Poster |
 | 2024-12-19 | Seer | SH AILab | [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://openreview.net/forum?id=meRCKuUpmc) | [Code](https://github.com/OpenRobotLab/Seer/) | Oral |
 | 2024-12-10 |  | McGill | [Contractive Dynamical Imitation Policies for Efficient Out-of-Sample Recovery](https://openreview.net/forum?id=vJ0axKTh7t) | [Code](https://github.com/aminabyaneh/scds-contractive-imitation) | Poster |
